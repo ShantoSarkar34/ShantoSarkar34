@@ -51,11 +51,9 @@ Passionate Frontend Developer with hands-on experience in React, JavaScript, Tai
 ---
 
 ### 📊 GitHub Stats  
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShantoSarkar34&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="start">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantoSarkar34&layout=compact&theme=radical" alt="Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShantoSarkar34&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="start">
   <img 
