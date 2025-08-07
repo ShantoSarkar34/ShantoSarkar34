@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/1Gff7h2T/Linked-In-Cover-Photo.png" alt="Banner Image" width="100%" />
+  <img src="https://i.ibb.co/1Gff7h2T/Linked-In-Cover-Photo.png" alt="Banner Image" width="100%" />
 </p>
 
 # Md Shanto Sarkar  
