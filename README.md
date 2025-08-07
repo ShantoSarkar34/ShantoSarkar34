@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/x4b0qzj.png)
+![Banner](https://i.ibb.co.com/1Gff7h2T/Linked-In-Cover-Photo.png)
 
 # 👨‍💻 Md Shanto Sarkar
 ### MERN Stack Developer | Frontend Developer
@@ -47,6 +47,9 @@ Hi, I'm Md Shanto Sarkar — a passionate MERN Stack Developer with a love for b
 ---
 
 ## 📊 GitHub Stats
-![Shanto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShantoSarkar34&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantoSarkar34&layout=compact)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShantoSarkar34)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantoSarkar34&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShantoSarkar34&show_icons=true&theme=default)
+
+---
