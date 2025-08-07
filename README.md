@@ -1,55 +1,62 @@
-![Banner](https://i.ibb.co.com/1Gff7h2T/Linked-In-Cover-Photo.png)
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.ibb.co.com/1Gff7h2T/Linked-In-Cover-Photo.png" alt="Banner Image" width="100%" />
+</p>
 
-# 👨‍💻 Md Shanto Sarkar
-### MERN Stack Developer | Frontend Developer
-
----
-
-## 🧑‍💼 About Me
-Hi, I'm Md Shanto Sarkar — a passionate MERN Stack Developer with a love for building responsive, user-friendly web applications. I specialize in React, Node.js, Express, and MongoDB. I'm driven by clean UI, problem-solving, and continuous learning.
+# Md Shanto Sarkar  
+### Frontend Developer | MERN Stack Enthusiast
 
 ---
 
-## 🚀 Current Activities
-- 🔍 Exploring Next.js and TypeScript
-- 🧳 Working on a tourism website project
-- 🛠️ Improving backend integration skills
-- 💼 Actively seeking remote opportunities
+### About Me  
+Passionate Frontend Developer with hands-on experience in React, JavaScript, TailwindCSS, and backend technologies like Node.js, Express, and MongoDB. Dedicated to building performant, responsive, and user-friendly web applications.
 
 ---
 
-## 🛠️ Skills
-### 💻 Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-
-### 🧩 Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-
-### 🔧 Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+### 🔭 Current Activities  
+- Exploring Next.js for server-side rendering and static site generation  
+- Developing a tourism website to showcase local attractions  
+- Learning advanced React patterns and hooks
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/shanto9070/)
-[![Facebook](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.facebook.com/shanto9070)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/ShantoSarkar34)
+### 💻 Skills  
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShantoSarkar34)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantoSarkar34&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShantoSarkar34&show_icons=true&theme=default)
+### 📫 Connect with me  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShantoSarkar34)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanto9070/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shanto9070)
 
 ---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShantoSarkar34&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-language-stats.vercel.app/api/top-langs/?username=ShantoSarkar34&layout=compact&theme=dark&hide_border=true" alt="Language Stats" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ShantoSarkar34&theme=dark&border=7&fire=FF8C00&ring=FFD700&currStreakNum=FFFFFF&sideNums=FFD700" 
+    alt="GitHub Streak Stats" 
+  />
+</p>
