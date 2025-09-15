@@ -5,26 +5,26 @@
 
 <!-- Intro -->
 <h1 align="center">👋 Hi, I'm Md Shanto Sarkar</h1>
-<h3 align="center">🚀 Frontend Developer | MERN Stack Enthusiast</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Enthusiast" alt="Typing Animation" />
+</h3>
 
 ---
 
-## 🌟 About Me  
-✨ Passionate about creating **modern, scalable, and user-friendly web applications**  
-💻 Skilled in **Frontend (React, TailwindCSS, JavaScript)** & **Backend (Node.js, Express, MongoDB)**  
-🎯 Dream: Becoming a **Full Stack Developer** and launching my **own tech company**  
-⚡ Always curious about **animations, UI/UX trends, and new tools**  
+### About Me  
+Passionate Frontend Developer with hands-on experience in React, JavaScript, TailwindCSS, and backend technologies like Node.js, Express, and MongoDB. Dedicated to building performant, responsive, and user-friendly web applications.
 
 ---
 
 ## 🔭 Current Activities  
-- 🚀 Exploring **Next.js** for full-stack projects  
-- 🌍 Building a **Tourism Website** with real-time data  
-- 📚 Learning advanced **React patterns & hooks**  
+- 🚀 Exploring **Next.js** for server-side rendering and static site generation  
+- 🌍 Developing a **tourism website** to showcase local attractions  
+- 📚 Learning advanced **React patterns and hooks**  
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Skills  
 
 **Frontend**  
 <p>
@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShantoSarkar34&theme=hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShantoSarkar34&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -64,14 +64,10 @@
 
 ---
 
-## ⚡ Fun Animations  
+## ⚡ Fun Animation  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Developer;Passionate+Coder;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
