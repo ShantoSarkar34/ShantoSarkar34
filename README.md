@@ -62,8 +62,6 @@ Passionate Frontend Developer with hands-on experience in React, JavaScript, Tai
   <img src="https://github-profile-trophy.vercel.app/?username=ShantoSarkar34&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
