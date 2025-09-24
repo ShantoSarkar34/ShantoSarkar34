@@ -4,7 +4,7 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">👋 Hi, I'm Md Shanto Sarkar</h1>
+<h1 align="center"> Hi, I'm Md Shanto Sarkar</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Enthusiast" alt="Typing Animation" />
