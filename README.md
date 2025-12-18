@@ -13,10 +13,7 @@
 ---
 
 ## 👨‍💻 About
-Frontend Developer with strong experience in **React**, **JavaScript**, and **Tailwind CSS**, and hands-on backend knowledge using **Node.js**, **Express**, and **MongoDB**.  
-Focused on building **scalable**, **maintainable**, and **user-centric** web applications.
-
-Currently expanding skills in **Next.js** and modern React architecture.
+I am a motivated and detail-oriented web developer who enjoys building clean, reliable, and user-focused digital products. I focus on creating applications that are easy to use, well-structured, and built to scale, with strong attention to performance and maintainability. I value clear communication, teamwork, and continuous learning, and I adapt quickly in fast-paced, collaborative environments. I take pride in delivering quality work, meeting deadlines, and contributing positively to every project I work on.
 
 ---
 
