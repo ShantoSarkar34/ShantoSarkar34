@@ -1,4 +1,5 @@
 <!-- Banner Image Here -->
+<img src="https://i.ibb.co.com/nMgBhZy5/0000.png" alt="banner_image" />
 
 <!-- Profile Picture Here -->
 
