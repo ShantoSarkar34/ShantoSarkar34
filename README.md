@@ -105,13 +105,21 @@ I focus on creating software that is easy to use, well-structured, and built to 
 
 ## 🐍 Contribution Snake
 
-<!--
-  To activate this animation: add the "Snake" GitHub Action to your ShantoSarkar34/ShantoSarkar34 repo
-  (https://github.com/Platane/snk). It auto-generates github-contribution-grid-snake.svg on the "output" branch.
-  Once the action runs once, this image renders automatically — no other changes needed.
--->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShantoSarkar34/ShantoSarkar34/output/github-contribution-grid-snake.svg" width="100%" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ShantoSarkar34/ShantoSarkar34/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ShantoSarkar34/ShantoSarkar34/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/ShantoSarkar34/ShantoSarkar34/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
