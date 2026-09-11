@@ -96,11 +96,11 @@ I focus on creating software that is easy to use, well-structured, and built to 
 
 ---
 
-## 🏆 Achievements
+<!--## 🏆 Achievements -->
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShantoSarkar34&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ShantoSarkar34&theme=onedark&no-frame=true&row=1&column=6" /> -->
+<!-- </p> -->
 
 ---
 
