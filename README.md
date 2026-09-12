@@ -90,9 +90,9 @@ I focus on creating software that is easy to use, well-structured, and built to 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShantoSarkar34&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoSarkar34&theme=tokyo-night&hide_border=true" width="90%"/>
-</p>
+</p> -->
 
 ---
 
