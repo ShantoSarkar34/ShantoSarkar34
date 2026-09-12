@@ -3,26 +3,26 @@
 
 <!-- Profile Picture Here -->
 
-<h1 align="center">Md Shanto Sarkar</h1>
+<h1 align="start">Md Shanto Sarkar</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%26+Next.js;Building+Scalable+Web+Applications;Frontend+First%2C+Backend+Strong;Clean+Code+Enthusiast" alt="Typing SVG" />
+<p align="start">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&start=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%26+Next.js;Building+Scalable+Web+Applications;Frontend+First%2C+Backend+Strong;Clean+Code+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/shanto9070/">LinkedIn</a> •
   <a href="https://github.com/ShantoSarkar34">GitHub</a> •
   <a href="https://shanto9070.vercel.app">Portfolio</a> •
   <a href="mailto:shanto9070.me@gmail.com">Email</a>
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=ShantoSarkar34&label=Profile%20Views&color=38BDF8&style=flat-square" />
   <a href="https://shanto9070.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-8B5CF6?style=flat-square&logo=readdotcv&logoColor=white" /></a>
 </p>
 
----
+
 
 ## 👨‍💻 About
 
@@ -30,7 +30,7 @@ I am a motivated and detail-oriented **Full Stack Developer** who enjoys buildin
 
 I focus on creating software that is easy to use, well-structured, and built to scale, with strong attention to performance, clean architecture, and maintainability. I value clear communication, teamwork, and continuous learning, and I adapt quickly in fast-paced, collaborative environments. I take pride in delivering quality work, meeting deadlines, and contributing positively to every project I work on.
 
----
+
 
 ## 🚀 What I'm Working On
 
@@ -42,11 +42,11 @@ I focus on creating software that is easy to use, well-structured, and built to 
 - 💬 Ask me about React, Next.js, Node.js, Express, PostgreSQL, or Prisma
 - 🎯 Open to Full Stack Developer roles and freelance opportunities
 
----
+
 
 ## 🧠 Tech Stack
 
-<table align="center">
+<table align="start">
 <tr>
 <td valign="top" width="50%">
 
@@ -77,7 +77,7 @@ I focus on creating software that is easy to use, well-structured, and built to 
 </tr>
 </table>
 
----
+
 
 ## 📈 GitHub Statistics
 
@@ -86,7 +86,7 @@ I focus on creating software that is easy to use, well-structured, and built to 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantoSarkar34&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p> -->
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShantoSarkar34&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
@@ -94,19 +94,18 @@ I focus on creating software that is easy to use, well-structured, and built to 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoSarkar34&theme=tokyo-night&hide_border=true" width="90%"/>
 </p> -->
 
----
 
 <!--## 🏆 Achievements -->
 
-<!-- <p align="center"> -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ShantoSarkar34&theme=onedark&no-frame=true&row=1&column=6" /> -->
+<!-- <p align="center">
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ShantoSarkar34&theme=onedark&no-frame=true&row=1&column=6" />
 <!-- </p> -->
 
----
+
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<p align="start">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -123,15 +122,15 @@ I focus on creating software that is easy to use, well-structured, and built to 
   </picture>
 </p>
 
----
+
 
 ## 💬 Quote
 
-<p align="center">
+<p align="start">
   <em>"Code is like humor. When you have to explain it, it's bad."</em>
 </p>
 
----
+
 
 ## 📫 Contact
 
