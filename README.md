@@ -124,11 +124,11 @@ I focus on creating software that is easy to use, well-structured, and built to 
 
 
 
-## Quote
+<!-- ## Quote
 
 <p align="start">
   <em>"Code is like humor. When you have to explain it, it's bad."</em>
-</p>
+</p> -->
 
 
 
@@ -146,8 +146,8 @@ I focus on creating software that is easy to use, well-structured, and built to 
   <em>Clean code • Scalable architecture • Continuous learning</em>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7a68b524.gif" width="100">
-</p>
+</p> -->
 
 <p align="center"><b>Thanks for visiting — Happy Coding ❤️</b></p>
