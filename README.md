@@ -24,7 +24,7 @@
 
 
 
-## 👨‍💻 About
+## About
 
 I am a motivated and detail-oriented **Full Stack Developer** who enjoys building clean, reliable, and user-focused digital products. My journey started on the frontend — React, Next.js, and Tailwind CSS are where I'm strongest — and has grown into full end-to-end ownership, designing and building backend systems with **Node.js, Express, PostgreSQL, and Prisma** independently from the ground up.
 
@@ -32,19 +32,19 @@ I focus on creating software that is easy to use, well-structured, and built to 
 
 
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
-- 🏗️ Building full-stack applications end-to-end — API design, database modeling, and frontend implementation
-- ⚡ Working with **Next.js 15 App Router**, Prisma 7, and PostgreSQL
-- 🔐 Implementing secure authentication systems and payment integrations (JWT, Stripe)
-- 🎨 Crafting polished UI/UX with Tailwind CSS, shadcn/ui, and motion/animation libraries
-- 📚 Sharpening advanced React patterns, system design, and backend architecture
-- 💬 Ask me about React, Next.js, Node.js, Express, PostgreSQL, or Prisma
-- 🎯 Open to Full Stack Developer roles and freelance opportunities
+- Building full-stack applications end-to-end — API design, database modeling, and frontend implementation
+- Working with **Next.js 15 App Router**, Prisma 7, and PostgreSQL
+- Implementing secure authentication systems and payment integrations (JWT, Stripe)
+- Crafting polished UI/UX with Tailwind CSS, shadcn/ui, and motion/animation libraries
+- Sharpening advanced React patterns, system design, and backend architecture
+- Ask me about React, Next.js, Node.js, Express, PostgreSQL, or Prisma
+- Open to Full Stack Developer roles and freelance opportunities
 
 
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <table align="start">
 <tr>
@@ -79,7 +79,7 @@ I focus on creating software that is easy to use, well-structured, and built to 
 
 
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShantoSarkar34&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -103,7 +103,7 @@ I focus on creating software that is easy to use, well-structured, and built to 
 
 
 
-## 🐍 Contribution Snake
+## Contribution
 
 <p align="start">
   <picture>
@@ -124,7 +124,7 @@ I focus on creating software that is easy to use, well-structured, and built to 
 
 
 
-## 💬 Quote
+## Quote
 
 <p align="start">
   <em>"Code is like humor. When you have to explain it, it's bad."</em>
@@ -132,7 +132,7 @@ I focus on creating software that is easy to use, well-structured, and built to 
 
 
 
-## 📫 Contact
+## Contact
 
 - 💼 LinkedIn: [linkedin.com/in/shanto9070](https://www.linkedin.com/in/shanto9070/)
 - 🌐 Portfolio: [shanto9070.vercel.app](https://shanto9070.vercel.app)
@@ -150,4 +150,4 @@ I focus on creating software that is easy to use, well-structured, and built to 
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7a68b524.gif" width="100">
 </p>
 
-<p align="center"><b>Thanks for visiting ❤️ — Happy Coding 🚀</b></p>
+<p align="center"><b>Thanks for visiting — Happy Coding ❤️</b></p>
