@@ -81,7 +81,7 @@ I focus on creating software that is easy to use, well-structured, and built to 
 
 ## GitHub Statistics
 
- <p align="center">
+ <p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=ShantoSarkar34&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantoSarkar34&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p> 
@@ -90,16 +90,16 @@ I focus on creating software that is easy to use, well-structured, and built to 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShantoSarkar34&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoSarkar34&theme=tokyo-night&hide_border=true" width="90%"/>
 </p>
 
 
-<!--## 🏆 Achievements -->
+## 🏆 Achievements 
 
-<!-- <p align="center">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ShantoSarkar34&theme=onedark&no-frame=true&row=1&column=6" />
-<!-- </p> -->
+ <p align="start">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShantoSarkar34&theme=onedark&no-frame=true&row=1&column=6" />
+ </p> 
 
 
 
