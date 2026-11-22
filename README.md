@@ -4,7 +4,7 @@
 
 <!-- Profile Picture Here -->
 
-<h1 align="start">Md Shanto Sarkar</h1>
+<h1 align="start">Md. Shanto Sarkar</h1>
 
 <p align="start">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&start=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%26+Next.js;Building+Scalable+Web+Applications;Frontend+First%2C+Backend+Strong;Clean+Code+Enthusiast" alt="Typing SVG" />
